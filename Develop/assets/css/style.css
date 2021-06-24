@@ -79,6 +79,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+artical {
+    display: block;
+}
 
 /* Benefit Style */
 .benefits {
